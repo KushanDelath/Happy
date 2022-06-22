@@ -1,0 +1,1 @@
+This is another method to making a new file by using WinCMD 
